@@ -17,3 +17,8 @@ Trello基础任务均在此markdown之上完成。
 ok，**Task 0**完成, move to **Task 1**。
 
 限制时间：1天。
+vi so egg pain...TAT
+do something...
+change something...
+....so egg pain..i mean eggacheXD
+
