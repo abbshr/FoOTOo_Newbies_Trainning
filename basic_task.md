@@ -1,6 +1,5 @@
 基础任务
 ===
-修改完成！
 
 Trello基础任务均在此markdown之上完成。
 
@@ -18,7 +17,3 @@ Trello基础任务均在此markdown之上完成。
 ok，**Task 0**完成, move to **Task 1**。
 
 限制时间：1天。
-
-**刘洋作出的修改**
-
-
