@@ -13,6 +13,5 @@ Trello基础任务均在此markdown之上完成。
 8. push到remote
 9. 然后再roll back到本次修改之前（版本回滚）
 
-ok，**Task 0**完成, move to **Task 1**。
 
 限制时间：1天。
