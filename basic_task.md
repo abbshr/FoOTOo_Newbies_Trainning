@@ -12,10 +12,7 @@ Trello基础任务均在此markdown之上完成。
 7. 修改master分支的内容（也就是这个文件）
 8. push到remote
 9. 然后再roll back到本次修改之前（版本回滚）
-10. 如果roll back之前有人已经在master分支提交了新的改动，那就先获取master的更新，然后跳至第9步。
 
 ok，**Task 0**完成, move to **Task 1**。
 
 限制时间：1天。
-
-2014.6.24 修改by张实唯
